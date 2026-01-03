@@ -13,6 +13,7 @@
     "@getmocha/vite-plugins": "^1.0.0",
     "@types/node": "^20.7.0",
     "typescript": "^5.2.0",
-    "vite": "^7.3.0"
+    "vite": "^6.2.0"
   }
 }
+
